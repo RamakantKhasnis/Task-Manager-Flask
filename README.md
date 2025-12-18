@@ -38,7 +38,7 @@ task-manager-flask/
 
 1. **Clone the repository**
 
-git clone https://github.com/<your-username>/Task-Manager-Flask.git
+git clone (https://github.com/RamakantKhasnis/Task-Manager-Flask.git)
 cd Task-Manager-Flask
 
 
@@ -62,15 +62,6 @@ The app will be available at:
 http://127.0.0.1:5000
 
 
-## 📸 Screenshots
-
-> _Add screenshots here once you take them._
-
-Example:
-
-![Task dashboard](screenshots
-
-
 ## 🔮 Possible Improvements
 
 - User authentication (login/signup, per-user tasks)
@@ -81,6 +72,6 @@ Example:
 
 ## 👤 Author
 
-- **Ramakant Khasnis** – [@your-github](https://github.com/your-github)
+- **Ramakant Khasnis** – [RamakantKhasnis](https://github.com/RamakantKhasnis/Task-Manager-Flask.git)
 
 Feel free to open issues or submit pull requests if you want to improve this project.
